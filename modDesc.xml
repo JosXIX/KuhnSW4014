@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="61">
+    <author>JosXIX</author>
+    <version>1.2.0.0</version>
+    <title>
+        <en>Kuhn SW 4014</en>
+        <de>Kuhn SW 4014</de>
+    </title>
+    <description>
+        <en>My Mod Description</en>
+    </description>
+    <iconFilename>store_sw4014.dds</iconFilename>
+    <storeItems>
+        <storeItem xmlFilename="sw4014.xml"/>
+    </storeItems>
+  <multiplayer supported="true"/>
+</modDesc>
